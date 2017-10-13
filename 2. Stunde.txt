@@ -1,0 +1,37 @@
+2.stunde
+
+<a href="#discography">
+
+<p id="discography"> ... </p>
+
+<meta charset="utf8"> ............ soll immer im head drinnen stehen
+
+h1{color:red;} ................... F12 überschrift auswählen kann man farbe ändern
+
+<h1 id="ue1"> ...</h1>
+
+<h1 id="ue2"> ...</h1>
+
+#ue1 {color:00ff00;}
+
+#ue2 {color:00ff00;}
+
+font-size: 10pt(10px,10cm,..)
+
+<pclass="...">..</p>
+
+<pclass="a">..</p>
+
+.a{color:ff00ff;}
+
+css im html
+
+<!doctype>
+<html>
+<head>
+<style>
+.xy font-size:10px;
+</style>
+</head>
+<body>
+<h1 style="color:red";>...</h1>

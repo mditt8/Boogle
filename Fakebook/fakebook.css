@@ -1,0 +1,25 @@
+.wald {
+  background: url(http://hdhintergrundbilder.net/image/landschaft/2469/wald-gras-baume-sonne-schon.jpg);
+  background-size: cover;
+  height: 500px;
+  text-align: center;
+}
+
+
+h1 {color: #1bbde0;}
+
+p {font-family: Arial; color: white;}
+
+.überschrift {font-size: 16pt;
+  font-weight: bolder;
+  color: #1bbde0;}
+
+  table {border: 8px dotted white;
+  background-color: #1bbde0;
+  color: white;}
+
+  button:hover {background-color: #1bbde0}
+
+  #link {color: #1bbde0;}
+  #link:visited {color: red;}
+#link:hover {color: #1bbde0}

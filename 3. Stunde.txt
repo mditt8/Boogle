@@ -1,0 +1,42 @@
+h1,p {} ......... man kann mehrere elemente auf einmal verwenden mit Beistrich
+
+body {text-align: center (left,right,justify)}
+
+
+<div class=header>
+<div class="logo"</div>
+
+* {
+margin:0;
+padding:0;}
+
+body {margin:0px 10px;}
+
+.header {background-color:#0f0;
+height:80px
+padding:10
+position:fixed
+width:100%
+z-index:0;
+
+.logo {background-color:#f0f0;
+height:80px;
+width:200px;}
+
+.content {background-color:rgb{10,10,10(grau);
+color:#ffffff(weiss)}
+width:50%;
+position:absolute
+top:100px
+z-index:0
+
+
+
+
+position: relative absolute fixed
+
+.portrait{background-color:rgb{0,0,255(blau)};}
+width:300px
+height:300px
+position:absolute
+right:0px
